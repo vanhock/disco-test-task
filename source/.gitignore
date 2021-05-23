@@ -1,5 +1,6 @@
 .DS_Store
-disco-test-task/source/node_modules
+node_modules
+/dist
 
 
 # local env files
